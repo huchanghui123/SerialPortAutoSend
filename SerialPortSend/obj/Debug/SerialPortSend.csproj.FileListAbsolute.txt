@@ -1,0 +1,8 @@
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\bin\Debug\SerialPortSend.exe.config
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\bin\Debug\SerialPortSend.exe
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\bin\Debug\SerialPortSend.pdb
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\obj\Debug\SerialPortSend.csprojAssemblyReference.cache
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\obj\Debug\SerialPortSend.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\obj\Debug\SerialPortSend.exe
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\obj\Debug\SerialPortSend.pdb
+E:\Visual Studio\C#\SerialPortSend\SerialPortSend\obj\Debug\SerialPortSend.csproj.CopyComplete
