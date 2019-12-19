@@ -20,5 +20,4 @@ Handshake：None
 **Build: Windows10 VS2017** 
 
 application screen：
-
 ![SerialPortAutoSend](.\com1_serial_port_auto_send.png)
